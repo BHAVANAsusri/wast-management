@@ -1,1 +1,1 @@
-# wast-management
+# waste-management
